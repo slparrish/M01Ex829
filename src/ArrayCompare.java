@@ -1,4 +1,4 @@
-// Scott L. Parrish 11/3/2025
+// Scott L. Parrish 01/21/2026
 // SDEV 200 Module 1 Exercise 8.29
 // ArrayCompare class to compare two 3 by 3 arrays to determine if they are identical
 // including a test program to demonstrate the use of the class
